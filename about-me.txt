@@ -8,3 +8,5 @@ Git command learned.
 - git status
 - git commit
 - git diff <hash1> <hash2>
+
+we add a new line in the master branch.
