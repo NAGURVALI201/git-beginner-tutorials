@@ -1,1 +1,9 @@
 This is nagur.
+
+Git command learned.
+-------------------
+- git add
+- git log
+- git init
+- git status
+- git commit
