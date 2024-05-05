@@ -8,5 +8,9 @@ Git command learned.
 - git status
 - git commit
 - git diff <hash1> <hash2>
+- git branch (To see the branch we are in)
+- git branch <branch-name> (To create a new branch)
+- git checkout <branch-name> to shift between brachces
+- head->branch (This will show the we branch we are currently working on)
 
 we add a new line in the master branch.
